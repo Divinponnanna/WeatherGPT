@@ -910,53 +910,49 @@ def render_climate_kb():
 # ── PRIVACY POLICY TAB ────────────────────────────────────────────────────────
 def render_privacy_policy():
     st.markdown('<div class="section-title">Privacy Policy</div>', unsafe_allow_html=True)
-    st.markdown("""
-    <div class="weather-card">
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-bottom:0.8rem;">1. Information We Process</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            WeatherGPT processes geographic search terms (city names or coordinates) strictly to query public meteorological data via the Open-Meteo API. 
-            When asking conversational climate or weather questions, queries are processed through Google Gemini API.
-        </p>
-
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">2. Document Indexing and Local Storage</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            PDF documents uploaded to the Climate Knowledge Base are parsed and embedded locally using Sentence Transformers. Vector embeddings and text chunks are stored in your local ChromaDB directory. No uploaded documents are transmitted to external ad networks or third-party trackers.
-        </p>
-
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">3. Data Retention and Control</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            All chat histories and cached session states reside purely in temporary memory during your active browser session. You can purge conversational history, reset loaded forecasts, and clear your vector database index at any time from the Settings tab.
-        </p>
-
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">4. Third-Party Meteorological Services</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            Live weather conditions and forecasts are provided by Open-Meteo under standard non-commercial open data licenses.
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown(
+        """<div class="weather-card">
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-bottom:0.8rem;">1. Information We Process</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+WeatherGPT processes geographic search terms (city names or coordinates) strictly to query public meteorological data via the Open-Meteo API. When asking conversational climate or weather questions, queries are processed through Google Gemini API.
+</p>
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">2. Document Indexing and Local Storage</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+PDF documents uploaded to the Climate Knowledge Base are parsed and embedded locally using Sentence Transformers. Vector embeddings and text chunks are stored in your local ChromaDB directory. No uploaded documents are transmitted to external ad networks or third-party trackers.
+</p>
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">3. Data Retention and Control</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+All chat histories and cached session states reside purely in temporary memory during your active browser session. You can purge conversational history, reset loaded forecasts, and clear your vector database index at any time from the Settings tab.
+</p>
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">4. Third-Party Meteorological Services</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+Live weather conditions and forecasts are provided by Open-Meteo under standard non-commercial open data licenses.
+</p>
+</div>""",
+        unsafe_allow_html=True,
+    )
 
 
 # ── TERMS AND CONDITIONS TAB ──────────────────────────────────────────────────
 def render_terms():
     st.markdown('<div class="section-title">Terms and Conditions</div>', unsafe_allow_html=True)
-    st.markdown("""
-    <div class="weather-card">
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-bottom:0.8rem;">1. Purpose and Demonstration Nature</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            WeatherGPT is an agentic AI engineering demonstration and meteorological reference platform. It provides automated weather data retrieval, RAG-augmented climate analysis, and threshold-based informational alerts.
-        </p>
-
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">2. Not Official Meteorological Advice</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            All automated alerts (including rain probability, high heat, and wind gust thresholds) are computed using project demonstration rules. They do not constitute official meteorological warnings. For safety-critical decisions, severe weather warnings, and disaster management, always consult official national agencies such as the India Meteorological Department (IMD) or your local meteorological authority.
-        </p>
-
-        <h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">3. Acceptable Use</h3>
-        <p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
-            Users agree not to submit malicious content or abuse underlying API endpoints. The software is provided on an "as-is" basis without warranties regarding uninterrupted uptime or data perfection.
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown(
+        """<div class="weather-card">
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-bottom:0.8rem;">1. Purpose and Demonstration Nature</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+WeatherGPT is an agentic AI engineering demonstration and meteorological reference platform. It provides automated weather data retrieval, RAG-augmented climate analysis, and threshold-based informational alerts.
+</p>
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">2. Not Official Meteorological Advice</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+All automated alerts (including rain probability, high heat, and wind gust thresholds) are computed using project demonstration rules. They do not constitute official meteorological warnings. For safety-critical decisions, severe weather warnings, and disaster management, always consult official national agencies such as the India Meteorological Department (IMD) or your local meteorological authority.
+</p>
+<h3 style="color:#F1F5F9; font-size:1.1rem; margin-top:1.5rem; margin-bottom:0.8rem;">3. Acceptable Use</h3>
+<p style="color:#94A3B8; font-size:0.9rem; line-height:1.6;">
+Users agree not to submit malicious content or abuse underlying API endpoints. The software is provided on an "as-is" basis without warranties regarding uninterrupted uptime or data perfection.
+</p>
+</div>""",
+        unsafe_allow_html=True,
+    )
 
 
 # ── SETTINGS TAB ─────────────────────────────────────────────────────────────

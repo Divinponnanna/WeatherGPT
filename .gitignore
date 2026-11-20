@@ -1,0 +1,51 @@
+# --- Secrets and credentials ---
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
+.streamlit/secrets.toml
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
+secrets/
+credentials/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.log
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Vector database (persistent local chunks) ---
+vector_db/
+
+# --- IDE & editor artifacts ---
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Archives & temporary test files ---
+*.zip
+*.tar.gz
+scratch_*.py
+tools_*.py
+
+# --- Uploaded private documents ---
+data/climate_documents/*.pdf

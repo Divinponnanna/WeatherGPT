@@ -1,0 +1,109 @@
+WeatherGPT Climate Knowledge Base – Sample Notes
+Source: Compiled from public domain climate resources for educational purposes
+==========================================================================
+
+DOCUMENT: Introduction to Monsoon Climate
+Source: Educational Climate Notes v1.0 | Page 1
+----------------------------------------------------------------------
+The Indian monsoon is one of the most significant weather systems affecting South Asia. 
+It occurs annually from June to September, bringing heavy rainfall across the subcontinent.
+The Southwest Monsoon accounts for approximately 70-90% of India's annual rainfall.
+Temperature and humidity gradients between land and ocean drive monsoon circulation.
+The Bay of Bengal and Arabian Sea branches bring moisture-laden air to different regions.
+Cities like Bengaluru typically receive 800-900 mm of annual rainfall.
+The monsoon retreat occurs from October onward, beginning in northwest India.
+
+Page 2
+----------------------------------------------------------------------
+Heavy rainfall during monsoon can trigger flooding in low-lying areas.
+Urban areas with poor drainage systems are particularly vulnerable to waterlogging.
+Flash floods can occur when rainfall intensity exceeds 50mm in a short period.
+River overflow due to sustained heavy rain affects agricultural and residential areas.
+Landslides are common in hilly regions during intense monsoon episodes.
+Warning systems are crucial for early evacuation and damage mitigation.
+The India Meteorological Department (IMD) issues official flood warnings and watches.
+
+DOCUMENT: Effects of Rainfall on Agriculture
+Source: Agricultural Climate Guide | Page 1
+----------------------------------------------------------------------
+Rainfall is a critical factor in determining agricultural productivity in India.
+Adequate monsoon rainfall ensures good crop yields for rice, wheat, sugarcane and cotton.
+Deficit rainfall leads to drought conditions that significantly impact food production.
+Excess rainfall can cause waterlogging, root rot and crop damage.
+Farmers depend on monsoon predictions to plan sowing, irrigation and harvesting schedules.
+Drip irrigation and rainwater harvesting help buffer the effects of uneven rainfall.
+
+Page 2
+----------------------------------------------------------------------
+Heavy rain exceeding 50mm per day can flatten standing crops like paddy and maize.
+Prolonged wet conditions promote fungal diseases such as blight in potatoes and tomatoes.
+Soil erosion is accelerated during intense rainfall events on sloped farmland.
+Post-harvest losses increase when drying conditions are poor due to cloudy weather.
+The rabi crop season (October-March) depends on residual soil moisture and winter rain.
+Climate variability and changing rainfall patterns challenge traditional farming calendars.
+
+Page 3
+----------------------------------------------------------------------
+Drought is classified as meteorological, hydrological or agricultural.
+A meteorological drought occurs when rainfall is 25% or more below normal.
+Agricultural drought affects crop production when soil moisture is inadequate for plant growth.
+Drought-resistant crop varieties and conservation agriculture help reduce vulnerability.
+Water table depletion from over-irrigation worsens drought impacts in semi-arid regions.
+Government schemes like PMKSY (Pradhan Mantri Krishi Sinchai Yojana) promote water efficiency.
+
+DOCUMENT: Extreme Heat and Heatwave Conditions
+Source: Climate Hazards Reference | Page 1
+----------------------------------------------------------------------
+A heatwave is defined as a period with maximum temperature significantly above normal.
+In India, IMD defines a heatwave when the maximum temperature exceeds 40°C in plains.
+Heat stress affects human health through dehydration, heat exhaustion and heat stroke.
+Vulnerable populations include outdoor workers, elderly individuals and young children.
+Urban heat island effect makes cities several degrees warmer than surrounding rural areas.
+Green spaces, water bodies and reflective surfaces help mitigate urban heat buildup.
+
+Page 2
+----------------------------------------------------------------------
+High temperatures combined with humidity create dangerous apparent (feels-like) temperatures.
+A temperature of 40°C with 70% humidity feels like 51°C due to reduced evaporative cooling.
+Heat domes, where high-pressure systems trap heat near the surface, cause prolonged heatwaves.
+Agriculture suffers when temperatures exceed critical thresholds during flowering and grain fill.
+Livestock productivity and animal health decline under sustained heat stress conditions.
+Energy demand for cooling rises sharply during heatwaves, straining electricity grids.
+
+DOCUMENT: Wind Patterns and Storm Events
+Source: Meteorological Basics Handbook | Page 1
+----------------------------------------------------------------------
+Wind speed and direction are key meteorological variables affecting weather conditions.
+Strong winds exceeding 50 km/h can damage crops, structures and power infrastructure.
+Cyclones in the Bay of Bengal generate sustained winds of 90-200 km/h or more.
+Wind gusts are brief surges in wind speed that can exceed mean wind by 30-50%.
+Squall lines associated with thunderstorms produce sudden strong gusty winds.
+Coastal and hilly areas experience enhanced wind speeds due to topographic effects.
+
+Page 2
+----------------------------------------------------------------------
+The Beaufort scale categorises wind strength from calm (0) to hurricane (12).
+A fresh breeze (5 Beaufort) corresponds to approximately 30-40 km/h wind speed.
+Near-gale conditions (7 Beaufort) produce winds of 50-61 km/h with large wave action.
+Dust storms (andhi) in northwestern India are associated with strong gusty pre-monsoon winds.
+Wind-driven rain reduces visibility and increases the effective rainfall at an angle.
+Aviation and maritime safety warnings are issued when sustained winds exceed 50 km/h.
+
+DOCUMENT: Temperature and Human Health
+Source: Public Health Climate Information Sheet | Page 1
+----------------------------------------------------------------------
+Extreme temperatures at both ends of the spectrum pose health risks to populations.
+Cold stress occurs when minimum temperatures drop below 10°C in tropical and subtropical regions.
+Hypothermia risk increases for homeless populations and outdoor workers in cold conditions.
+Respiratory infections, influenza and pneumonia rates increase during cold weather.
+Minimum temperatures below 5°C can damage sensitive crops like tomatoes and cucumbers.
+Frost formation occurs when surface temperatures drop to 0°C or below.
+
+Page 2
+----------------------------------------------------------------------
+The relationship between temperature and disease vector activity is well documented.
+Malaria-transmitting mosquitoes thrive in warm and humid conditions after rainfall.
+Dengue fever cases often spike following the onset of monsoon rains.
+Diarrheal diseases increase in hot weather due to accelerated food spoilage.
+Mental health impacts of extreme weather include stress, anxiety and trauma responses.
+Community preparedness plans and early warning systems save lives during extreme events.
